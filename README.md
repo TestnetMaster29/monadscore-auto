@@ -55,4 +55,4 @@ nano privateKeys.txt
 node main.js
 ```
 
-Last updated :
+Last updated:
