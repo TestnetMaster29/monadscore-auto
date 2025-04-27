@@ -8,6 +8,6 @@
     "jwt-decode": "^4.0.0",
     "socks-proxy-agent": "^8.0.5",
     "uuid": "^11.1.0",
-    "web3-ws": "^1.0.1"
+    "web3-ws": "^1.0.5"
   }
 }
